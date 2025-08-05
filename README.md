@@ -4,10 +4,10 @@
 
 This Tetris clone adds:
 
-- **Dual rotation controls:** Rotate pieces clockwise **and** counterclockwise (press `up` or `j` keys)
-- **Taylor Swift-themed pieces:** Each tetromino is colored after a Taylor Swift album, adding personality and flair
-- **Taylor Swift Lover-themed background:** A subtle and charming backdrop to set the mood 🎨
-- **Standard Tetris gameplay:** Move pieces left/right/down, hard drop with `space`, pause with `p`, and clear rows to score points
+- **Dual rotation controls:** Rotate pieces clockwise **and** counterclockwise (press `up` or `j` keys).
+- **Taylor Swift-themed pieces:** Each tetromino is colored after a Taylor Swift album, adding personality and flair.
+- **Taylor Swift Lover-themed background:** A subtle and charming backdrop which sets the mood.
+- **Standard Tetris gameplay:** Move pieces left/right/down, hard drop with `space`, pause with `p`, and clear rows to score points.
 
 ---
 
