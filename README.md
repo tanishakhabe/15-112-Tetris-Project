@@ -22,3 +22,6 @@ This Tetris clone adds:
 - Press **`p`** to pause or resume the game
 - Clear rows to earn **Karma Points** (score)
 - The game ends when pieces stack to the top
+
+
+Make sure you have Python and CMU Graphics installed.
